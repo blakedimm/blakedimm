@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Artyom 👋
+### Backend & AI Systems Developer | Python & .NET
 
-<!--
-**blakedimm/blakedimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on building reliable backend architectures, RAG pipelines, and deterministic integration layers for LLMs. Experienced in bringing asynchronous systems, production Telegram services, and business automations to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Core & Backend:** Python (Asyncio, FastAPI, Aiogram 3), C# (.NET 10)
+- **Databases & Caching:** PostgreSQL, SQLite, Redis, pgvector
+- **AI & Integrations:** RAG, LLM APIs (Claude, OpenAI), Knowledge Graphs, Context Engineering, Tool Calling / MCP
+- **Infrastructure & Tools:** Docker, Linux / Bash, Git, REST APIs, Webhooks
+
+---
+
+### 🚀 Highlighted Projects
+
+#### [CognitiveEngine](https://github.com/blakedimm/CognitiveEngine)
+> Neuro-symbolic cognitive architecture and hybrid RAG engine designed to eliminate LLM hallucinations.
+- Implements deterministic verification layers using knowledge graphs and vector search.
+- Solves context drift and logic inconsistencies in multi-step AI reasoning.
+- **Stack:** .NET 10 / C#, Vector Embeddings, Knowledge Representation.
+
+#### Umbreliana Engine (Production Telegram Ecosystem)
+> High-load asynchronous Telegram service with virtual economy and payment pipelines.
+- Integrated payment gateways with strict webhook validation, signature verification, and idempotency guarantees.
+- Scalable state machine (FSM), distributed caching, and clean relational schema under continuous production load.
+- **Stack:** Python, Aiogram 3, PostgreSQL, Docker.
+
+#### Business Data Automation Pipeline
+> Production automation scripts for aggregating, cleaning, and validating fragmented financial and sales reports.
+- Automated anomaly detection, margin calculations, and Excel/API sync, reducing processing time from hours to seconds.
+- **Stack:** Python, Pandas, OpenPyXL / XlsxWriter.
+
+---
+
+### 💻 Hardware & Local Inference Setup
+
+- **Workstation:** Intel Core i5-14400F | NVIDIA GeForce RTX 5060 Ti (16 GB VRAM) | 32 GB DDR4 3200 MHz | 1 TB NVMe SSD
+- **Display:** 27" Qmax 2K QHD (2560x1440, 165 Hz)
+- **Mobile Setup:** ASUS Vivobook 16X (Intel Core i5-1335U, 16 GB RAM, 512 GB SSD)
+
+---
+
+### 📬 Connect With Me
+
+- **Telegram:** [@yaser7141](https://t.me/yaser7141)
+- **Email:** ggg131379@gmail.com
