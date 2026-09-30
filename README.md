@@ -22,16 +22,18 @@ Focused on building reliable backend architectures, RAG pipelines, and determini
 - Solves context drift and logic inconsistencies in multi-step AI reasoning.
 - **Stack:** .NET 10 / C#, Vector Embeddings, Knowledge Representation.
 
+#### [Eliza](https://github.com/blakedimm/eliza)
+> Autonomous Windows desktop AI copilot, agentic protocol executor, and voice assistant.
+- Custom strict action protocol parser transforming natural language LLM outputs into sandboxed OS actions.
+- Zero-lag streaming client supporting both local open-weights engines (LM Studio, Ollama) and cloud providers.
+- Low-level system automation (Win32 interop, window management, process orchestration) and native voice synthesis.
+- **Stack:** C# / .NET 10, Win32 API, System.Speech, Streaming HTTP.
+
 #### Umbreliana Engine (Production Telegram Ecosystem)
 > High-load asynchronous Telegram service with virtual economy and payment pipelines.
 - Integrated payment gateways with strict webhook validation, signature verification, and idempotency guarantees.
 - Scalable state machine (FSM), distributed caching, and clean relational schema under continuous production load.
 - **Stack:** Python, Aiogram 3, PostgreSQL, Docker.
-
-#### Business Data Automation Pipeline
-> Production automation scripts for aggregating, cleaning, and validating fragmented financial and sales reports.
-- Automated anomaly detection, margin calculations, and Excel/API sync, reducing processing time from hours to seconds.
-- **Stack:** Python, Pandas, OpenPyXL / XlsxWriter.
 
 ---
 
