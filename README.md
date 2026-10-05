@@ -40,8 +40,6 @@ Focused on building reliable backend architectures, RAG pipelines, and determini
 ### 💻 Hardware & Local Inference Setup
 
 - **Workstation:** Intel Core i5-14400F | NVIDIA GeForce RTX 5060 Ti (16 GB VRAM) | 32 GB DDR4 3200 MHz | 1 TB NVMe SSD
-- **Display:** 27" Qmax 2K QHD (2560x1440, 165 Hz)
-- **Mobile Setup:** ASUS Vivobook 16X (Intel Core i5-1335U, 16 GB RAM, 512 GB SSD)
 
 ---
 
