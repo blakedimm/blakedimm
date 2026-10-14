@@ -1,11 +1,11 @@
-# Hi, I'm Artyom 👋
+# Hi, I'm Artyom 
 ### Backend & AI Systems Developer | Python & .NET
 
 Focused on building reliable backend architectures, RAG pipelines, and deterministic integration layers for LLMs. Experienced in bringing asynchronous systems, production Telegram services, and business automations to life.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 - **Core & Backend:** Python (Asyncio, FastAPI, Aiogram 3), C# (.NET 10)
 - **Databases & Caching:** PostgreSQL, SQLite, Redis, pgvector
@@ -14,7 +14,7 @@ Focused on building reliable backend architectures, RAG pipelines, and determini
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
 #### [CognitiveEngine](https://github.com/blakedimm/CognitiveEngine)
 > Neuro-symbolic cognitive architecture and hybrid RAG engine designed to eliminate LLM hallucinations.
@@ -37,13 +37,13 @@ Focused on building reliable backend architectures, RAG pipelines, and determini
 
 ---
 
-### 💻 Hardware & Local Inference Setup
+### Hardware & Local Inference Setup
 
 - **Workstation:** Intel Core i5-14400F | NVIDIA GeForce RTX 5060 Ti (16 GB VRAM) | 32 GB DDR4 3200 MHz | 1 TB NVMe SSD
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 - **Telegram:** [@yaser7141](https://t.me/yaser7141)
 - **Email:** ggg131379@gmail.com
